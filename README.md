@@ -1,17 +1,10 @@
 # Ex. No : 1
-
 # IMPLEMENTATION OF SYMBOL TABLE
-
 # Register Number : 212223043006
-
-# Date :10/03/2025
-
+# Date :5/03/2025
 # AIM:
-
 To write a C program to implement a symbol table.
-
 # ALGORITHM:
-
 1. Start the program.
 2. Get the input from the user with the terminating symbol ‘$’.
 3. Allocate memory for the variable by dynamic memory allocation function.
